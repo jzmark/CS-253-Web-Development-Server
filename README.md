@@ -1,1 +1,1 @@
-# CS-253-Web-Development-Server
+# CS-253 Web Development Coursework - Server
